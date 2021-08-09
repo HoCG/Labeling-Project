@@ -6,6 +6,8 @@
 
 ![dd](https://user-images.githubusercontent.com/52379503/128648532-39d529af-a396-48a9-abcd-9088c5a5d02f.PNG)
 
+백엔드를 구현하지 않았기 때문에 로컬 환경에서 프로그램을 진행해야하고 따라서 아래의 절차를 거쳐서 진행하면 프로그램이 정상 동작합니다.
+
 
 ## Project setup
 ```
